@@ -3,11 +3,7 @@ Universal Banking Software
 
 Front middle and back office
 
-Corporate Cash Management
-
-Treasury Management
-
-Wealth Management
+Retail Banking, Business Banking, Corporate Cash Management, Treasury Management, Wealth Management
 
 Core Capability
 * Cash
